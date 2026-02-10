@@ -1,0 +1,38 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="python-multipart" />
+          <option value="sqlalchemy" />
+          <option value="asyncpg" />
+          <option value="psycopg2-binary" />
+          <option value="pgvector" />
+          <option value="alembic" />
+          <option value="openai" />
+          <option value="tiktoken" />
+          <option value="pypdf" />
+          <option value="python-docx" />
+          <option value="markdown" />
+          <option value="chardet" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+          <option value="pytest" />
+          <option value="pytest-asyncio" />
+          <option value="pytest-cov" />
+          <option value="httpx" />
+          <option value="faker" />
+          <option value="python-jose" />
+          <option value="passlib" />
+          <option value="aiofiles" />
+          <option value="tenacity" />
+          <option value="numpy" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
